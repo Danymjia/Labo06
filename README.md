@@ -7,3 +7,6 @@ Local Storage vacío ya que no existe ninguna tarea
 
 ![Imagen de WhatsApp 2025-05-04 a las 19 28 26_8b896b13](https://github.com/user-attachments/assets/499031d7-bcca-44fc-b96e-d933d1d61560)
 Imagen con tarea agregada y guardada en el Local Storage
+
+![Imagen de WhatsApp 2025-05-04 a las 19 28 56_e8a7f1d1](https://github.com/user-attachments/assets/f647d65f-2fb6-4ba5-b858-64e8c86fbf83)
+Se muestra como desaparece la tarea
